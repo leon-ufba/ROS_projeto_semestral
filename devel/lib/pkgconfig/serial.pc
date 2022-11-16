@@ -1,0 +1,8 @@
+prefix=/home/leon/catkin_ws_niryo_ned/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/leon/catkin_ws_niryo_ned/src/niryo_robot_hardware_stack/serial/include
+Libs: -L${prefix}/lib -lserial
+Requires: 

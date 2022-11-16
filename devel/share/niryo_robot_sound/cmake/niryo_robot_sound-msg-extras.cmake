@@ -1,0 +1,2 @@
+set(niryo_robot_sound_MESSAGE_FILES "/home/leon/catkin_ws_niryo_ned/src/niryo_robot_sound/msg/SoundList.msg;/home/leon/catkin_ws_niryo_ned/src/niryo_robot_sound/msg/SoundObject.msg")
+set(niryo_robot_sound_SERVICE_FILES "/home/leon/catkin_ws_niryo_ned/src/niryo_robot_sound/srv/ManageSound.srv;/home/leon/catkin_ws_niryo_ned/src/niryo_robot_sound/srv/PlaySound.srv;/home/leon/catkin_ws_niryo_ned/src/niryo_robot_sound/srv/TextToSpeech.srv")
